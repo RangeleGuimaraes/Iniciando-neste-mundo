@@ -1,2 +1,2 @@
-# Iniciando neste mundo
+# Iniciando neste mundo!
  Primeiro repositório do curso Git e GitHub
